@@ -5,5 +5,5 @@ vimage.vim - Open image paths in vim
 `Plug jakeroggenbuck/vimage.vim`
 
 ## Use
-Set image viewer `let g:image_viewer = "feh"`
+Set image viewer `let g:image_viewer = "feh"`<br>
 Set key binding `nmap <leader>mg :call Vimage()<CR>`
